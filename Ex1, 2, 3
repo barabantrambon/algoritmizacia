@@ -1,3 +1,4 @@
+1
 integer_var = 12
 float_var = 12.1
 string_var = 'Всем привет кого не видел'
@@ -7,3 +8,21 @@ dict_var = {1: 'Привет всем', 2: 'кого не видел'}
 set_var = {21, 34, 71}
 bool_var = True
 print(integer_var, float_var, string_var, list_var, tuple_var, dict_var, set_var, bool_var)
+
+2
+name="Artem"
+age="17"
+average_grade=4
+favorite_movies=["it"]
+personal_info=["Kamaltdinov", 20, 4]
+skills={"jump": 99}
+visited_countries={"Turkey", "Egypt", "Thailand"}
+has_driver_license=False 
+print (name, age, average_grade, favorite_movies, personal_info, skills, visited_countries, has_driver_license)
+
+3
+processor="intel"
+ram=16
+internet_speed=300
+pc=[processor, ram, internet_speed]
+print (pc)
